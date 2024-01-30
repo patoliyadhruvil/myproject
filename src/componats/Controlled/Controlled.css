@@ -1,0 +1,19 @@
+form{
+    border: 2px solid red;
+    padding: 25px;
+    border-radius: 20px;
+} 
+.top{
+    background-color: blue;
+    border: none;
+}
+input{
+    border: none;
+    padding: 10px 15px;
+    background-color: #d8d7d7;
+    border-radius: 25px;
+}
+label{
+    font-size: 18px;
+    font-weight: 600;
+}
